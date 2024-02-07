@@ -1,0 +1,17 @@
+body {
+    display: flex;
+    align-items: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background-image: url("photos/pic14.jpg");
+    background-size: 1600px 900px;
+    background-repeat: no-repeat;
+  }
+  label {
+    color: #013a63;
+
+  }
+  .btn {
+    background-color: #a9d6e5;
+    border-color: #a9d6e5;
+  }
