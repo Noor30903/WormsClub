@@ -15,6 +15,7 @@ Welcome to WormsClub, the first website developed by our team! WormsClub is a pl
  Database: MySQL.
 
 ## Credits
-   Noor Alawlaqi: Project Lead.
+   Developer team:
+   Noor Alawlaqi.
    Maha Almashharawi.
    Mashael Alsalamah.
